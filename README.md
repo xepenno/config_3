@@ -47,5 +47,6 @@
 
 # Тестирование
 В файле txt записаны выражения для переменных, которые программа высчитывает и на выходе выдает файл формата xml, который содержит значения высчитанных переменных.
+
 ![image](https://github.com/user-attachments/assets/6254e456-89a6-4f99-8556-0e0ee659bc8f)
 ![image](https://github.com/user-attachments/assets/009f417e-23e1-4db8-9ad2-ce3a427bf39d)
