@@ -1,0 +1,16 @@
+\ Этот еще один комментарий
+
+def x = 10;
+def y = 20;
+def z = #(x * y + 5);
+
+def a = #(sqrt(16));
+def b = #(min(30, 50));
+
+{
+    key1 = #(x + a),
+    key2 = #(y - b),
+    key3 = #(z * 2),
+    key4 = #(sqrt(x * y)),
+    key5 = #(min(x, y, z))
+}
